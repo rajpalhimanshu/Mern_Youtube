@@ -7,8 +7,8 @@ const options = {
     hl:"en",
     gl:"US"},
   headers: {
-    'X-RapidAPI-Key':'0672605a6cmsh9fcf79878640f9ap1c579djsn0fa41c873542',
-    "X-RapidAPI-Host": "youtube138.p.rapidapi.com",
+        'X-RapidAPI-Key': 'dcb4ed7b02mshee7c7d1438ed367p121b5ejsn0fe2215605a2',
+        "X-RapidAPI-Host": "youtube138.p.rapidapi.com",
   }
 };
 export const fetchDataFromApi = async(url) =>{
